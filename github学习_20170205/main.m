@@ -16,6 +16,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"test");
         
         NSLog(@"在中端上提交一次版本");
+        
+        NSLog(@"第三次commit");
     }
     return 0;
 }
