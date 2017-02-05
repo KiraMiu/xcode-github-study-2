@@ -9,10 +9,15 @@
 1. 本地终端中进行如下操作：
 ...
 cd 本地项目路径
+
 git add .
+
 git commit -m "版本描述信息：标题"
+
 git remote add 本地仓库名 远端仓库的https地址
+
 git push -u 本地仓库名 master
+
 ...
 这样就同步到了远端仓库了。
 2. 之后再在xcode打开项目文件，此时就能在xcode下进行push、pull等与远端仓库进行交互的操作了。
