@@ -10,7 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
+        // 第一个xcode操作远端与本地仓库的demo。远端仓库为新建的空仓库（一根毛都没有）。
         NSLog(@"Hello, World!");
         
         NSLog(@"test");
