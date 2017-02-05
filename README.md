@@ -20,5 +20,4 @@ git remote add 本地仓库名 远端仓库的https地址
 git push -u 本地仓库名 master
 ```
 
-
 2. 之后再在xcode打开项目文件，此时就能在xcode下进行push、pull等与远端仓库进行交互的操作了。
